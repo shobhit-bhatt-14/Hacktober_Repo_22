@@ -56,6 +56,9 @@ GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
 
-
+NAME :  Shobhit Bhatt<br>
+GITHUB :  [@shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)<br>
+INSTITUTE/COMPANY : Perplexed <br>
+DOMAIN/LANGUGAE : Java<br>
 
 
